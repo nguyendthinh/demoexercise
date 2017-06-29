@@ -2,11 +2,16 @@
 
 # Intro (Quick Review):
 
-What is Vanilla JS?
+** What is Vanilla JS? **
+<details>
+  <summary>
+    Vanilla JS refers to using plain JavaScript without any additional libraries like jQuery.
+  </summary>
+</details>
 
-What is the DOM and what are some way to manipulate it?
+** What is the DOM and what are some way to manipulate it? **
 
-What are click events?
+** What are click events? **
 
 # Morning Exercise:
 
@@ -14,11 +19,9 @@ What are click events?
 
 # Additional Thinking:
 
-What is jQuery? How is it different than Vanilla JS?
-
-Were there any portion of the Vanilla JS code that you saw that could have been executed the same way through using jQuery?
-
-Advantages and Disadvantages of using Vanilla JS and jQuery:
+• What is jQuery? How is it different than Vanilla JS?
+• Were there any portion of the Vanilla JS code that you saw that could have been executed the same way through using jQuery?
+• Advantages and Disadvantages of using Vanilla JS and jQuery:
 
 # Optional Challenge:
 
