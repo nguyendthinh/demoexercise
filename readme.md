@@ -2,15 +2,15 @@
 
 # Intro (Quick Review):
 
-** What is Vanilla JS? **
+### What is Vanilla JS?
 <details>
   ```Vanilla JS refers to using plain JavaScript without any additional libraries like jQuery.
   ```
 </details>
 
-** What is the DOM and what are some way to manipulate it? **
+### What is the DOM and what are some way to manipulate it?
 
-** What are click events? **
+### What are click events?
 
 # Morning Exercise:
 
