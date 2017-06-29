@@ -4,6 +4,7 @@
 
 ### What is Vanilla JS?
 <details>
+  <summary><strong>Answer</strong></summary>
   ```Vanilla JS refers to using plain JavaScript without any additional libraries like jQuery.
   ```
 </details>
