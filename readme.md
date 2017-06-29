@@ -4,7 +4,7 @@
 
 What is Vanilla JS?
 
-What is the DOM and DOM manipulation?
+What is the DOM and what are some way to manipulate it?
 
 What are click events?
 
