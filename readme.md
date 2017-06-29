@@ -8,11 +8,11 @@ What is the DOM and what are some way to manipulate it?
 
 What are click events?
 
-# Tying the Concepts Together (Exercise):
+# Morning Exercise:
 
 [Color Scheme Switcher](https://github.com/ga-wdi-exercises/color-scheme-switcher)
 
-# jQuery:
+# Additional Thinking:
 
 What is jQuery? How is it different than Vanilla JS?
 
@@ -20,10 +20,6 @@ Were there any portion of the Vanilla JS code that you saw that could have been 
 
 Advantages and Disadvantages of using Vanilla JS and jQuery:
 
-# How does the exercise solution look like in jQuery:
+# Optional Challenge:
 
-# Exercise 2:
-
-Complete this quick exercise by using VanillaJS first then complete it by using jQuery.
-
-[DomQuotes](https://github.com/ga-wdi-exercises/js-dom-quotes/tree/jquery)
+Write the solution for the morning exercise using jQuery.
