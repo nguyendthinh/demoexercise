@@ -3,7 +3,9 @@
 # Intro (Quick Review):
 
 What is Vanilla JS?
+
 What is the DOM and DOM manipulation?
+
 What are click events?
 
 # Tying the Concepts Together (Exercise):
