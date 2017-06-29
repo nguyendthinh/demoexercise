@@ -4,9 +4,8 @@
 
 ** What is Vanilla JS? **
 <details>
-  <summary>
-    Vanilla JS refers to using plain JavaScript without any additional libraries like jQuery.
-  </summary>
+  ```Vanilla JS refers to using plain JavaScript without any additional libraries like jQuery.
+  ```
 </details>
 
 ** What is the DOM and what are some way to manipulate it? **
