@@ -27,7 +27,9 @@
 # Additional Thinking:
 
 • What is jQuery? How is it different than Vanilla JS?
+
 • Were there any portion of the Vanilla JS code that you saw that could have been executed the same way through using jQuery?
+
 • Advantages and Disadvantages of using Vanilla JS and jQuery.
 
 # Optional Challenge:
