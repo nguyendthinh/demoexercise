@@ -1,34 +1,30 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Vanilla JS/DOM Manipulation Review
 
-# Intro (Quick Review):
+# Opening (Push the Button):
 
-### What is Vanilla JS?
-<details>
-  <summary><strong>Answer</strong></summary>
-  Vanilla JS refers to using plain JavaScript without any additional libraries like jQuery.
-</details>
+# ![](http://fidgetspinnersdeals.com/wp-content/uploads/2017/06/51Zq6s2d7rL.jpg)
 
-### What is the DOM?
-<details>
-  <summary><strong>Answer</strong></summary>
-   Document Object Model (DOM): an application programming interface (API) for HTML documents. It defines the logical structure of documents and the way a document is accessed and manipulated.
-</details>
+- What happens when you push the button on the toy?
+- What's causing the changes to the color?
 
-### What are click events?
-<details>
-  <summary><strong>Answer</strong></summary>
-   A click event essentially ties a function (as a callback) to an HTML DOM element and specifies what action needs to happen to trigger/call/invoke that function (callback).
-</details>
+# ![](https://image.ibb.co/nvcb5F/colors.jpg)
 
 # Morning Exercise:
 
 [Color Scheme Switcher](https://github.com/ga-wdi-exercises/color-scheme-switcher)
 
+Pair up with a classmate to discuss the following questions before engaging the exercise:
+
+- What is happening on a programming level with this exercise?
+- Pseudocode the approach/step that you will take in order to solve this exercise.
+- Feel free to discuss the following terms to help guide you on how to approach this exercise:
+  DOM manipulation, click events, callback function. 
+
 # Additional Thinking:
 
 • What is jQuery? How is it different than Vanilla JS?
 
-• Were there any portion of the Vanilla JS code that you saw that could have been executed the same way through using jQuery?
+• Were there any portion of the JavaScript code that you saw that could have been executed the same way through using jQuery?
 
 • Advantages and Disadvantages of using Vanilla JS and jQuery.
 
